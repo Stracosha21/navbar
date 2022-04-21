@@ -1,0 +1,85 @@
+body {
+    height: 118px;
+    width: 1728px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    size: 50%;
+
+}
+
+.alvey {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    color: #000;
+}
+
+.nav {
+    color: gray;
+    list-style-type: none;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-between;
+    background: #C4C4C4;
+
+}
+
+a {
+    color: #515151;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+.img_icon {
+    height: 53px;
+    width: 53px;
+    left: 1571px;
+    top: 51px;
+    border-radius: 0px;
+
+}
+
+.button_share {
+    height: 36px;
+    width: 134px;
+    left: 1411px;
+    top: 59px;
+    border-radius: 10px;
+
+}
+
+.button_create {
+    height: 36px;
+    width: 134px;
+    left: 1260px;
+    top: 59px;
+    border-radius: 10px;
+
+}
+
+.search {
+    height: 36px;
+    width: 417px;
+    left: 816px;
+    top: 59px;
+    border-radius: 10px;
+
+}
+
+.kolokolchik {
+    padding: 51px 26px;
+    height: 47px;
+    width: 48px;
+    left: 1654px;
+    top: 51px;
+    border-radius: 0px;
+    color: #FFFFFF;
+}
